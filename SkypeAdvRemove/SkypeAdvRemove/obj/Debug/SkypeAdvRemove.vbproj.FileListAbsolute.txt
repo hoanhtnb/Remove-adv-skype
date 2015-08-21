@@ -1,0 +1,9 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\SkypeAdvRemove\bin\Debug\SkypeAdvRemove.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\SkypeAdvRemove\bin\Debug\SkypeAdvRemove.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\SkypeAdvRemove\bin\Debug\SkypeAdvRemove.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\SkypeAdvRemove\obj\Debug\SkypeAdvRemove.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\SkypeAdvRemove\obj\Debug\SkypeAdvRemove.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\SkypeAdvRemove\obj\Debug\SkypeAdvRemove.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\SkypeAdvRemove\obj\Debug\SkypeAdvRemove.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\SkypeAdvRemove\obj\Debug\SkypeAdvRemove.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\SkypeAdvRemove\obj\Debug\SkypeAdvRemove.frmRemove.resources
