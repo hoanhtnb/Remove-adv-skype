@@ -4,7 +4,6 @@ Imports Microsoft.Win32
 Public Class frmRemove
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Console.Title = "Skype Advert Remover"
         Dim Skype As Process() = Process.GetProcessesByName("skype")
         For Each runningSkype In Skype
             runningSkype.Kill()         'Kill Skype is running.
